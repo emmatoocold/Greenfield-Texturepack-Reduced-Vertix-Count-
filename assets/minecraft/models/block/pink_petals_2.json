@@ -21,8 +21,8 @@
 			}
 		},
 		{
-			"from": [1, 0, 1],
-			"to": [16, 0, 6],
+			"from": [1, 0.01, 1],
+			"to": [16, 0.01, 6],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 1]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 0], "texture": "#missing"},
